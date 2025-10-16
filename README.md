@@ -23,15 +23,16 @@
 ---
 
 ### 💼 Featured Projects
-- 🖥️ [Creative Portfolio](https://github.com/USERNAME/portfolio)
-- 🏪 [Restaurant Web App](https://github.com/USERNAME/restaurant-app)
-- 🧩 [Landing Page Template](https://github.com/USERNAME/landing-page)
+- 🏢 [Next Code Agency](https://github.com/NextCodeAgency) — A creative digital agency specializing in web development, design, and digital strategy.  
+- 🖥️ [Creative Portfolio](https://github.com/blackito/portfolio) — A personal portfolio showcasing modern UI and responsive design.  
+- 🏪 [Restaurant Web App](https://github.com/zolana/restaurant-app) — Full-stack restaurant website with admin dashboard and online ordering.  
+- 🧩 [Landing Page Template](https://github.com/edar/landing-page) — Clean and responsive landing page built with React and TailwindCSS.
 
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blackito&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?blackito=USERNAME&layout=compact&theme=radical)
 
 ---
 
@@ -42,9 +43,10 @@
 ---
 
 ### 📫 Connect with Me
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/blackito.x)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/blackito)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://blackito.dev)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:blackito@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)]((https://blackito.wuaze.com/))
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:devblackito@gmail.com)
 
 ---
 
